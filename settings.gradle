@@ -1,0 +1,6 @@
+rootProject.name = 'sleuth'
+
+include 'mcaller'
+include 'mclient'
+include 'fcaller'
+include 'fclient'
